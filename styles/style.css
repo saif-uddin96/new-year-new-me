@@ -1,0 +1,36 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+/* header styles section */
+.header-section {
+  background-image: url("../images/banner/banner3.png");
+  background-repeat: no-repeat;
+  background-position: right bottom;
+  /* max-width: 1600px; */
+  background-size: cover;
+  height: 808px;
+}
+.banner-container{
+    text-align: right;
+    justify-content: center;
+    padding: 216px 230px 166px 850px;
+}
+
+.banner-title {
+  color: #fff;
+  font-size: 65px;
+  font-weight: 700;
+}
+.banner-description {
+  font-size: 16px;
+  font-weight: 400;
+}
+.btn-common {
+  color: #005fac;
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 5px;
+  background: #fff;
+  border: none;
+}
